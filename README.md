@@ -45,20 +45,23 @@ last copy at once.
 
 ## 🛠 Stack
 
-**AI/LLM** LangChain · LangGraph · RAG · hybrid retrieval · Pinecone · ChromaDB · RAGAS
-**Backend** Python · FastAPI · Node.js · Express · OAuth 2.0 · JWT
-**Data** PostgreSQL · MongoDB · Pandas · NumPy
-**Frontend** React · Next.js · TypeScript · Tailwind
-**Infra** Docker · AWS · Git · Vercel
+- **AI/LLM** — LangChain · LangGraph · RAG · hybrid retrieval · Pinecone · ChromaDB · RAGAS
+- **Backend** — Python · FastAPI · Node.js · Express · OAuth 2.0 · JWT
+- **Data** — PostgreSQL · MongoDB · Pandas · NumPy
+- **Frontend** — React · Next.js · TypeScript · Tailwind
+- **Infra** — Docker · AWS · Git · Vercel
 
 ---
 
 ## 💼 Experience
 
-**AI Automation Engineer** · ERP BOSS · *Oct–Dec 2025* — built MailWarden (above)
-**AI Intern** · Mirai School of Technology · *Jul–Aug 2025* — n8n automation pipelines
+- **AI Automation Engineer** · ERP BOSS · *Oct–Dec 2025*
+  Built MailWarden (above) — LangGraph orchestration, Gmail API over OAuth 2.0.
 
-Smart India Hackathon 2024 national qualifier · GDSC NIT Jalandhar web team · 350+ LeetCode, 1600+
+- **AI Intern** · Mirai School of Technology · *Jul–Aug 2025*
+  n8n automation pipelines, cutting manual operational effort by 80%.
+
+**Also** — Smart India Hackathon 2024 national qualifier · GDSC NIT Jalandhar web team · 350+ LeetCode (1600+)
 
 ---
 
