@@ -63,7 +63,7 @@ the thread goes to a human rather than sending the fourth-best guess.
 
 ---
 
-### [BookWise](https://github.com/HarshVaibhav09/BookWise)
+### [BookWise](https://github.com/HarshVaibhav09/BookWise) · [Live demo →](https://university-library-management-syste-nine.vercel.app/)
 **University library platform with a real approval workflow.** The less glamorous
 project, and the one where I actually had to think about concurrency.
 
