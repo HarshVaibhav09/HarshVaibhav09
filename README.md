@@ -62,7 +62,4 @@ Smart India Hackathon 2024 national qualifier · GDSC NIT Jalandhar web team · 
 
 ---
 
-📫 **vaibhavharsh08@gmail.com** · [LinkedIn](https://linkedin.com/in/harsh-vbhv) · [Resume](LINK)
-
-*Every repo here has a Known Limitations section. If you're evaluating me, start there —
-it'll tell you more than a feature list.*
+📫 **vaibhavharsh08@gmail.com** · [LinkedIn](https://linkedin.com/in/harsh-vbhv) · [Resume]([LINK](https://drive.google.com/file/d/11D1M5Vjys6mBk7s1xKDfX1akvWcCRTIm/view?usp=sharing))
