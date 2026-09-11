@@ -56,12 +56,18 @@ last copy at once.
 ## 💼 Experience
 
 - **AI Automation Engineer** · ERP BOSS · *Oct–Dec 2025*
-  Built MailWarden (above) — LangGraph orchestration, Gmail API over OAuth 2.0.
+  8-node multi-agent LangGraph workflow for email triage and response — RAG pipeline, Groq + Gemini routing, Gmail API over OAuth 2.0.
+
+- **Full Stack Developer Intern** · DeepQ AI · *Dec 2025–Feb 2026*
+  15+ Django REST Framework APIs, PostgreSQL schema design, React dashboards — JWT auth and RBAC across services.
+
+- **SDE Intern** · Basil Infotech · *Jun–Aug 2025*
+  EduNexa school management system on MERN — REST APIs with query indexing, Redis caching, RBAC.
 
 - **AI Intern** · Mirai School of Technology · *Jul–Aug 2025*
   n8n automation pipelines, cutting manual operational effort by 80%.
 
-**Also** — Smart India Hackathon 2024 national qualifier · GDSC NIT Jalandhar web team · 350+ LeetCode (1600+)
+**Also** — Smart India Hackathon 2025 national qualifier · GDSC NIT Jalandhar web team · 350+ LeetCode (1600+)
 
 ---
 
