@@ -17,7 +17,7 @@ what separates a demo from something you'd put in front of a paying customer.
 then ask questions instead of digging through PDFs.
 `FastAPI` `React` `ChromaDB` `Groq` `Docker`
 
-Hybrid retrieval (dense + BM25, reciprocal rank fusion) hits **0.90 recall@5 vs 0.65
+Hybrid retrieval (dense + BM25, reciprocal rank fusion) hits **0.84 recall@5 vs 0.74
 dense-only**, with 0.90 faithfulness on RAGAS. Live at sub-3s p50. Type-aware streaming
 ingestion handles 80-page PDFs at constant memory; a heuristic-first classifier resolves
 75% of documents with zero LLM calls.
@@ -28,7 +28,7 @@ ERP BOSS.
 `LangGraph` `LangChain` `Groq` `Gemini` `Gmail API` `OAuth 2.0`
 
 An 8-node LangGraph workflow routing threads by intent — **95%+ classification accuracy
-across 50+ live threads, 80% less manual handling.** The proofreader is a *separate*
+across 50+ unread email threads, 80% less manual handling.** The proofreader is a *separate*
 agent, because a model checking its own output approves almost anything. The rewrite loop
 is bounded: when the retry budget runs out, a human gets it instead of the fourth-best guess.
 
