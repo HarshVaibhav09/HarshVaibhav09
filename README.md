@@ -55,7 +55,7 @@ last copy at once.
 
 ## 💼 Experience
 
-- **AI Automation Engineer** · ERP BOSS · *Oct–Dec 2025*
+- **AI Automation Engineer** · ERP BOSS · *Feb 2026–Apr 2025*
   8-node multi-agent LangGraph workflow for email triage and response — RAG pipeline, Groq + Gemini routing, Gmail API over OAuth 2.0.
 
 - **Full Stack Developer Intern** · DeepQ AI · *Dec 2025–Feb 2026*
@@ -71,4 +71,4 @@ last copy at once.
 
 ---
 
-📫 **vaibhavharsh08@gmail.com** · [LinkedIn](https://linkedin.com/in/harsh-vbhv) · [Resume](https://drive.google.com/file/d/11D1M5Vjys6mBk7s1xKDfX1akvWcCRTIm/view?usp=sharing)
+📫 **vaibhavharsh08@gmail.com** · [LinkedIn](https://linkedin.com/in/harsh-vbhv) · [Resume](https://drive.google.com/file/d/1g2psBuKuwROs52qbR1SV7G2kGhlYhJ52/view?usp=sharing)
